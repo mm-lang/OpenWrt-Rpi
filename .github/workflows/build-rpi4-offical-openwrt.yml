@@ -27,6 +27,7 @@ env:
   UPLOAD_RCLONE: true
   UPLOAD_WETRANSFER: true
   UPLOAD_COWTRANSFER: true
+  UPLOAD_RELEASES: true
   TZ: Asia/Shanghai
 
 jobs:
